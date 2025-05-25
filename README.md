@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sujith R</h1>
+
+<img align="center"  justify-content="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/d39449ec788a3055ac750f8a846dc7acfed31bd0186bab6d533df2b4a54257b0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966" >
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujithramesh2005&label=Profile%20views&color=0e75b6&style=flat" alt="sujithramesh2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujithramesh2005" alt="sujithramesh2005" /></a> </p>
+
+
+
+
 
 - 🔭 I’m currently working on [phishing-stimulation-tool](https://github.com/Sujithramesh2005/phishing-simulation-tool)
 
