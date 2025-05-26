@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujith R</h1>
 
-<img align="center"  justify-content="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/d39449ec788a3055ac750f8a846dc7acfed31bd0186bab6d533df2b4a54257b0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966" >
+<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/d39449ec788a3055ac750f8a846dc7acfed31bd0186bab6d533df2b4a54257b0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966">
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -13,15 +13,15 @@
 
 
 
-- 🔭 I’m currently working on [phishing-stimulation-tool](https://github.com/Sujithramesh2005/phishing-simulation-tool)
-
-- 🌱 I’m currently learning **metasploit frameWork**
-
-- 👨‍💻 All of my projects are available at [https://sujith-rl-docu.web.app/](https://sujith-rl-docu.web.app/)
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/Sujithramesh2005/phishing-simulation-tool">phishing-stimulation-tool</a></li>
+  <li>🌱 I’m currently learning <strong>metasploit frameWork</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://sujith-rl-docu.web.app/">https://sujith-rl-docu.web.app/</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujith-rl-8303282b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujith-rl-8303282b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sujith-rl-8303282b0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujith-rl-8303282b0" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_asethetic__11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_asethetic__11" height="30" width="40" /></a>
 </p>
 
